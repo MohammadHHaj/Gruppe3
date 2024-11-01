@@ -5,6 +5,9 @@ body {
   background-size: cover;
   height: 100vh;
 }
+.farve {
+  color: white;
+}
 .searchBox {
   display: flex;
   max-width: 400px;
